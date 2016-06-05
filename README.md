@@ -3,7 +3,7 @@
 ## Problem Description
 Design a database that could be used by an airline. We are looking to store the following data:
 
-*** Employees***
+***Employees***
 - first name
 - middle name
 - last name
