@@ -85,10 +85,8 @@ was made and the credit card used)
 - frequent flyer number (if available)
 
 
-*[1] we can assume that each plane takes up the same amount of space, for simplicity’s sake*
-
-*[2] company name will suffice*
-
-*[3] I can purchase (in a single transaction) a round trip to Paris. Leaving now and coming back in 2 weeks. When I
+[1] we can assume that each plane takes up the same amount of space, for simplicity’s sake
+[2] company name will suffice
+[3] I can purchase (in a single transaction) a round trip to Paris. Leaving now and coming back in 2 weeks. When I
 check in for my way there, I will check in to all the flights on the way to Paris (let’s say Syracuse to JFK and then JFK
-to Paris). Then a day before coming back I would check in for the trip back (Paris -> JFK and JFK -> Syracuse)*
+to Paris). Then a day before coming back I would check in for the trip back (Paris -> JFK and JFK -> Syracuse)
