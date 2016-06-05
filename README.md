@@ -14,7 +14,7 @@ Design a database that could be used by an airline. We are looking to store the 
 - pay
 - direct supervisor (another employee)
 
-*** Airports***
+***Airports***
 - name
 - city
 - state
@@ -27,13 +27,13 @@ arrive/leave
 excess planes that we aren’t using currently) 
 - fees associated with this airport (airport, city and state taxes, other airport fees)
 
-*** Flight Routes***
+***Flight Routes***
 - airport from which the flight departs
 - airport to which the flight arrives
 - length of the flight
 - refreshments (snacks or full meals and drinks) and whether they are included or are extra
 
-*** Airplanes (and their maintenance)***
+***Airplanes (and their maintenance)***
 - a manufacturer [2] and a model number
 - date the plane was built
 - capacity (first class, business class, economy plus, economy); this is then broken down by
@@ -49,7 +49,7 @@ to be finished
  - we also need to keep a record of performed airplane maintenance (when and what was
 done, and who performed the work) and a schedule of when and what is due
 
-*** Scheduled Flights***
+***Scheduled Flights***
 - flight number (not really unique)
 - which plane we are using
 - route being flown
@@ -62,7 +62,7 @@ ahead of time, or I can just pay for the flight and then get a seat assigned whe
 - flight status (scheduled – on time, scheduled – delayed, in progress – on time, in progress –
 late, completed)
 
-*** Customer Transactions***
+***Customer Transactions***
 - which customer
 - which flight(s)
 - when was the flight booked
@@ -75,7 +75,7 @@ late, completed)
 was made and the credit card used)
 - any refunds/price adjustments (how much and reason)
 
-###Customers
+***Customers***
 - first name
 - middle name
 - last name
