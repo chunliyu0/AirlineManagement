@@ -1,7 +1,7 @@
 # AirlineManagement
 ![image](https://github.com/ycl11761/AirlineManagement/blob/master/airline.png)</br>
 ## Problem Description
-Design a database that could be used by an airline. We are looking to store the following data:
+Design a database that could be used by an airline. The following data should be considered:
 
 ***Employees***
 - first name
