@@ -1,5 +1,5 @@
 # AirlineManagement
-![image](https://github.com/ycl11761/CompanyRecommendation/blob/master/mapreduce.png)</br>
+![image](https://github.com/ycl11761/AirlineManagement/blob/master/airline.png)</br>
 ## Problem Description
 Design a database that could be used by an airline. We are looking to store the following data:
 
